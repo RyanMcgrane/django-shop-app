@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f692702-8861-4b9f-8684-0ec8dbac814c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/youtube_test/settings.py" afterDir="false" />
     </list>
@@ -118,7 +117,8 @@
       <workItem from="1572870519703" duration="44058000" />
       <workItem from="1572995523799" duration="8649000" />
       <workItem from="1573010196808" duration="4523000" />
-      <workItem from="1573019503022" duration="117000" />
+      <workItem from="1573019503022" duration="847000" />
+      <workItem from="1573020415506" duration="1532000" />
     </task>
     <servers />
   </component>
@@ -130,7 +130,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
