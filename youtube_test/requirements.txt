@@ -9,7 +9,7 @@ geos==0.2.2
 gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.3
-lxml==4.4.1
+lxml==4.9.1
 MarkupSafe==1.1.1
 Pillow==6.2.1
 postgis==1.0.4
